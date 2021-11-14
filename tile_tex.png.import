@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/tile_tex.png-ef823001850a2809d2dfccde4dcc00ce.s3tc.stex"
-path.etc2="res://.import/tile_tex.png-ef823001850a2809d2dfccde4dcc00ce.etc2.stex"
+path.s3tc="res://.import/tile_tex.png-5ce939188801d772e6ed5f9a7406e170.s3tc.stex"
+path.etc2="res://.import/tile_tex.png-5ce939188801d772e6ed5f9a7406e170.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://tile_tex.png"
-dest_files=[ "res://.import/tile_tex.png-ef823001850a2809d2dfccde4dcc00ce.s3tc.stex", "res://.import/tile_tex.png-ef823001850a2809d2dfccde4dcc00ce.etc2.stex" ]
+source_file="res://Submodules/godot-motion-blur/tile_tex.png"
+dest_files=[ "res://.import/tile_tex.png-5ce939188801d772e6ed5f9a7406e170.s3tc.stex", "res://.import/tile_tex.png-5ce939188801d772e6ed5f9a7406e170.etc2.stex" ]
 
 [params]
 
